@@ -1,6 +1,6 @@
 # WorkoutAPI
 
-Esta é uma API de competição de crossfit chamada WorkoutAPI (isso mesmo rs, eu acabei unificando duas coisas que gosto: codar e treinar). É uma API pequena, devido a ser um projeto mais hands-on e simplificado. Nós desenvolveremos uma API com poucas tabelas, mas com o necessário para você aprender como utilizar o FastAPI.
+Esta é uma API de competição de crossfit chamada WorkoutAPI. Nela, é possível criar, visualizar todos os usuários, editar, deletar e consultar um usuário pelo ID, assim como realizar operações semelhantes para categorias e centros de treinamento.
 
 ## Stack da API
 
