@@ -2,10 +2,6 @@
 
 Esta é uma API de competição de crossfit chamada WorkoutAPI (isso mesmo rs, eu acabei unificando duas coisas que gosto: codar e treinar). É uma API pequena, devido a ser um projeto mais hands-on e simplificado. Nós desenvolveremos uma API com poucas tabelas, mas com o necessário para você aprender como utilizar o FastAPI.
 
-## Modelagem de Entidade e Relacionamento - MER
-
-![MER](link_to_image)
-
 ## Stack da API
 
 A API foi desenvolvida utilizando o FastAPI (async), junto das seguintes bibliotecas: alembic, SQLAlchemy e Pydantic. Para salvar os dados, está sendo utilizado o Postgres por meio do Docker.
