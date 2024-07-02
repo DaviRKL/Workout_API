@@ -29,7 +29,6 @@ Para criar o banco de dados, execute:
 ```bash
 make run-migrations
 ```
-API
 Para subir a API, execute:
 ```bash
 make run
